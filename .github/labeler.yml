@@ -1,0 +1,10 @@
+enhancement:
+  - "Formula/*.rb"
+
+configuration:
+  - ".gitignore"
+  - "*.yml"
+
+project-management:
+  - ".github/*"
+  - "*.md"
